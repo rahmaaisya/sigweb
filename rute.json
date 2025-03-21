@@ -81,6 +81,24 @@
         ],
         "type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            110.34152048326484,
+            -7.686976513728155
+          ],
+          [
+            110.3419964221535,
+            -7.68794990445987
+          ]
+        ],
+        "type": "LineString"
+      }
     }
   ]
+}
 }
