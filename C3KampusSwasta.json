@@ -1,0 +1,346 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Muhammadiyah Yogyakarta",
+        "info": "Universitas Muhammadiyah Yogyakarta adalah universitas swasta di Yogyakarta yang berafiliasi dengan Muhammadiyah, organisasi Islam terbesar kedua di Indonesia."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.3565,
+              -7.7825
+            ],
+            [
+              110.3565,
+              -7.7835
+            ],
+            [
+              110.3575,
+              -7.7835
+            ],
+            [
+              110.3575,
+              -7.7825
+            ],
+            [
+              110.3565,
+              -7.7825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Sanata Dharma",
+        "info": "Pendidikan tinggi swasta Katolik berbasis penelitian dan koedukasi yang dikelola oleh Provinsi Serikat Yesus Indonesia di Yogyakarta, Indonesia."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.4092,
+              -7.7744
+            ],
+            [
+              110.4092,
+              -7.7754
+            ],
+            [
+              110.4102,
+              -7.7754
+            ],
+            [
+              110.4102,
+              -7.7744
+            ],
+            [
+              110.4092,
+              -7.7744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Mercu Buana",
+        "info": "UMB Yogyakarta memiliki fokus pada bidang pertanian, ekonomi, teknologi informasi, dan ilmu komunikasi."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.4243,
+              -7.7643
+            ],
+            [
+              110.4243,
+              -7.7653
+            ],
+            [
+              110.4253,
+              -7.7653
+            ],
+            [
+              110.4253,
+              -7.7643
+            ],
+            [
+              110.4243,
+              -7.7643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas AMIKOM",
+        "info": "Perguruan tinggi swasta di bidang teknologi informasi yang berlokasi di Kabupaten Sleman, Daerah Istimewa Yogyakarta, Indonesia. "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+                110.3956,
+                -7.7828
+              ],
+              [
+                110.3956,
+                -7.7838
+              ],
+              [
+                110.3966,
+                -7.7838
+              ],
+              [
+                110.3966,
+                -7.7828
+              ],
+              [
+                110.3956,
+                -7.7828
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Janabadra",
+        "info": "Universitas Janabadra adalah perguruan tinggi swasta di Yogyakarta yang berfokus pada pendidikan di bidang hukum, ekonomi, teknik, dan pertanian."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.3652,
+              -7.8033
+            ],
+            [
+              110.3652,
+              -7.8043
+            ],
+            [
+              110.3662,
+              -7.8043
+            ],
+            [
+              110.3662,
+              -7.8033
+            ],
+            [
+              110.3652,
+              -7.8033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Widya Mataram",
+        "info": "Perguruan tinggi swasta di Yogyakarta yang didirikan dengan filosofi budaya dan kebangsaan. Universitas ini mengedepankan nilai-nilai kearifan lokal dalam pendidikan."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.3721,
+              -7.782
+            ],
+            [
+              110.3721,
+              -7.783
+            ],
+            [
+              110.3731,
+              -7.783
+            ],
+            [
+              110.3731,
+              -7.782
+            ],
+            [
+              110.3721,
+              -7.782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Ahmad Dahlan",
+        "info": "perguruan tinggi swasta di Yogyakarta yang berafiliasi dengan Muhammadiyah. UAD berkomitmen dalam pengembangan ilmu pengetahuan, teknologi, dan seni dengan berlandaskan nilai-nilai Islam."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.3625,
+              -7.7912
+            ],
+            [
+              110.3625,
+              -7.7922
+            ],
+            [
+              110.3635,
+              -7.7922
+            ],
+            [
+              110.3635,
+              -7.7912
+            ],
+            [
+              110.3625,
+              -7.7912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Teknologi Yogyakarta",
+        "info": "Perguruan tinggi swasta di Yogyakarta yang berfokus pada pengembangan teknologi, bisnis, dan kewirausahaan. "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.38,
+              -7.8105
+            ],
+            [
+              110.38,
+              -7.8115
+            ],
+            [
+              110.381,
+              -7.8115
+            ],
+            [
+              110.381,
+              -7.8105
+            ],
+            [
+              110.38,
+              -7.8105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Nadhatul Ulama",
+        "info": "Perguruan tinggi swasta yang berafiliasi dengan Nahdlatul Ulama, organisasi Islam terbesar di Indonesia. UNU Yogyakarta berfokus pada pendidikan berbasis keislaman, teknologi, dan kewirausahaan."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.4132,
+              -7.781
+            ],
+            [
+              110.4132,
+              -7.782
+            ],
+            [
+              110.4142,
+              -7.782
+            ],
+            [
+              110.4142,
+              -7.781
+            ],
+            [
+              110.4132,
+              -7.781
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Proklamasi 45",
+        "info": "perguruan tinggi swasta di Yogyakarta yang dikenal sebagai Kampus Energi Bangsa. UP45 berfokus pada bidang energi, teknik, ekonomi, dan sosial."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.3456,
+              -7.7989
+            ],
+            [
+              110.3456,
+              -7.7999
+            ],
+            [
+              110.3466,
+              -7.7999
+            ],
+            [
+              110.3466,
+              -7.7989
+            ],
+            [
+              110.3456,
+              -7.7989
+            ]
+          ]
+        ]
+      }
+    }
+ ] }
+      
+        
