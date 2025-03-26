@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Muhammadiyah Yogyakarta",
+          "info": "Universitas swasta berbasis Islam yang dikelola oleh organisasi Muhammadiyah, menawarkan berbagai program akademik."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.321772, -7.806718], [110.320490, -7.806525], [110.319946, -7.807218], [110.319674, -7.808642], [110.320412, -7.810374], [110.320839, -7.811837], [110.320956, -7.813300], [110.322206, -7.814532], [110.322322, -7.817111], [110.323022, -7.817072], [110.323099, -7.813993], [110.322478, -7.812838], [110.322583, -7.811133], [110.324331, -7.811056], [110.324409, -7.810286], [110.322272, -7.809978], [110.322583, -7.809285], [110.323166, -7.809054], [110.321728, -7.808554], [110.321772, -7.806718]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Ahmad Dahlan",
+          "info": "Perguruan tinggi Islam modern di Yogyakarta yang terkenal dengan program akademiknya yang unggul."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.382614, -7.798428], [110.382506, -7.798870], [110.383353, -7.799003], [110.383427, -7.798531], [110.382614, -7.798428]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Sanata Dharma",
+          "info": "Universitas Katolik yang dikelola oleh Serikat Yesus, dikenal dengan pendidikan berkualitas dan riset akademik."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.389451, -7.774203], [110.389112, -7.776089], [110.389411, -7.776180], [110.391647, -7.775713], [110.391314, -7.774585], [110.389451, -7.774203]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Teknologi Yogyakarta",
+          "info": "Universitas swasta di Yogyakarta yang berfokus pada bidang teknologi dan inovasi digital."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.355100, -7.746888], [110.354769, -7.747737], [110.354664, -7.748012], [110.354273, -7.749546], [110.355723, -7.749784], [110.356091, -7.747231], [110.355100, -7.746888]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas AMIKOM Yogyakarta",
+          "info": "Universitas swasta berbasis teknologi informasi yang terkenal dengan program animasi dan IT."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.408819, -7.758645], [110.408790, -7.758702], [110.408812, -7.758729], [110.408807, -7.758779], [110.408737, -7.758972], [110.408692, -7.759010], [110.408648, -7.759025], [110.408475, -7.758984], [110.408393, -7.759249], [110.408627, -7.759321], [110.408653, -7.759349], [110.408658, -7.759392], [110.408511, -7.759777], [110.408778, -7.759863], [110.409231, -7.758786], [110.408819, -7.758645]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Janabadra",
+          "info": "Perguruan tinggi swasta yang menawarkan berbagai program studi dengan fokus pada pengembangan profesional."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.357745, -7.783348], [110.357208, -7.783246], [110.356966, -7.784579], [110.357539, -7.784601], [110.357745, -7.783348]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Widya Mataram",
+          "info": "Universitas swasta di Yogyakarta yang berbasis pada budaya dan nilai-nilai tradisional Jawa."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.357854, -7.805514], [110.357821, -7.807519], [110.358811, -7.807519], [110.358942, -7.805632], [110.357854, -7.805514]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Institut Teknologi Yogyakarta",
+          "info": "Perguruan tinggi swasta yang berfokus pada pendidikan dan pengembangan di bidang sains, teknologi, dan rekayasa."
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[110.398194, -7.806694], [110.398146, -7.807346], [110.398965, -7.807359], [110.398897, -7.806988], [110.398916, -7.806717], [110.398194, -7.806694]]]
+        }
+      }
+    ]
+  }
+  
